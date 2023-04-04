@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0CjTuVhx/yNiVeYLGv/bGSPykgCyMREAp+k2BUDy8DU=",
+  "Hash": "wnROW4HriDBzMvCPWgwUk3BMSeaqa9GBRamsW1D9LeQ=",
   "Source": "DutzuBookWeb",
   "BasePath": "_content/DutzuBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\vlads\\Desktop\\workigOn\\c#\\DutzuBook\\DutzuBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DutzuBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\vlads\\Desktop\\workigOn\\c#\\DutzuBook\\DutzuBookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "DutzuBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vlads\\Desktop\\workigOn\\c#\\DutzuBook\\DutzuBookWeb\\wwwroot\\",
+      "BasePath": "_content/DutzuBookWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\vlads\\Desktop\\workigOn\\c#\\DutzuBook\\DutzuBookWeb\\wwwroot\\css\\site.css",
